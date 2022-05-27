@@ -1,15 +1,14 @@
-img{
-    width: 200px;
-    height: 200px;
+*{
+    margin:0;
+    padding: 0;
 }
-h1{
-    color:rgb(25, 10, 233);
-    text-align:center;
-    font-size:30px;
-    font-family:'Times New Roman', Times, serif;
+body{
+    background-image: url(images/dul.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
-p{
-    width:50%;
-    float: left;
-    font-family: 'Times New Roman', Times, serif;
+.header img{
+    width: 130px;
+    height: 130px;
 }
